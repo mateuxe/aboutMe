@@ -42,5 +42,5 @@ Desenvolvimento de melhores tecnologias para um futuro melhor.
 <li> <a href="https://www.instagram.com/mateuxe/" target="_blank"> /Instagram </a> - Me segue lá no Instagram </li>
 <li> <a href="https://www.facebook.com/Moscomano" target="_blank"> /Facebook </a> - Me acompanhe lá no Facebook </li>
 <li> <a href="linkedin.com/in/mateus-eduardo-757522218/" target="_blank"> /Linkedin </a>  - Me adiciona lá no Linkedin </li>
-<li> <a href="mailto:mateuseduardosilvar@gmail.com?subject=Olá, Mateus. Tudo bem?"> /Email </a> - Mande-me um Email</li>
+<li> <a href="mailto:mateuseduardosilvar@gmail.com?subject=Olá, Mateus. Tudo bem?" target="_blank"> /Email </a> - Mande-me um Email</li>
 </ul>

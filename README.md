@@ -39,7 +39,7 @@ Desenvolvimento de melhores tecnologias para um futuro melhor.
 - 💌 Como chegar até mim:
 
 Ig> @mateuxe
-Fb> <a href="https://www.facebook.com/Moscomano" target="_blank"> />
-Linkedin> <a href="linkedin.com/in/mateus-eduardo-757522218/" target="_blank"> />
+Fb> <a href="https://www.facebook.com/Moscomano" target="_blank"> Facebook/>
+Linkedin> <a href="linkedin.com/in/mateus-eduardo-757522218/" target="_blank"> Linkedin />
 Wtt> (62) 98618-9887
 Email> mateuseduardosilvar@gmail.com

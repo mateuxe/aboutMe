@@ -6,9 +6,7 @@ Descrição sobre mim
 `Olá, sou @mateuxe.
 Tenho 20 anos e sou graduando em Sistemas de Informação na UFG;
 Busco conhecimento amplo e específico;
-
 Hobbies>  Jogos, ler diferentes gêneros literários, conhecer/refletir sobre diversos assunto, gastar tempo atoa, etc;
-
 Não admito> Qualquer tipo de preconceito(racismo, lgbtfobia, preconceito de classes, machismo, etc), não me venha com achismos para tentar explicar o que a ciência já explica e comentários maldosos que não possuem nada a acrescentar. `
 
 - ✨ Estou interessado em:

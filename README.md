@@ -4,8 +4,7 @@ Descrição sobre mim
 -👀 Apresentação:
 
 `Olá, sou @mateuxe.
-Tenho 19 anos e sou recém formado no Ensino Médio;
-Atualmente, estudo para iniciar a graduação em SI no If-goiano;
+Tenho 20 anos e sou graduando em Sistemas de Informação na UFG;
 Busco conhecimento amplo e específico;
 
 Hobbies>  Jogos, ler diferentes gêneros literários, conhecer/refletir sobre diversos assunto, gastar tempo atoa, etc;
@@ -28,7 +27,8 @@ Conhecimentos amplos sobre a área de TI;
 Inglês;
 Lógica de Programação e Algoritmo em C#;
 PHP;
-Back-END; `
+Back-END;
+React.JS;`
 
 - 💝 Estou procurando colaborar em:
 
